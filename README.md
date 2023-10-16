@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a Stanford student studying psychology
+- I'm currently working in affective science 
+
 <!--
 **emma-hiilani/Emma-hiilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
